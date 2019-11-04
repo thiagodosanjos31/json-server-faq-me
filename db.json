@@ -37,6 +37,83 @@
       "Validação":"",
       "Execução":"",
       "Obs:":""
+    },
+    {
+      "Demanda": "Tradução",
+      "Exemplo": "Tradução",
+      "SLA": "N/A",
+      "Escopo": "Sim",
+      "Triagem": "N1",
+      "Análise":"QA",
+      "Validação":"QA",
+      "Execução":"QA",
+      "Obs:":"Triagem Incluir página, URL, Campos a serem traduzidos"
+    },
+    {
+      "Demanda": "Novos desenvolvimentos",
+      "Exemplo": "Criação de novo botão",
+      "SLA": "5",
+      "Escopo": "Sim",
+      "Triagem": "N1",
+      "Análise":"N1/N2",
+      "Validação":"N3",
+      "Execução":"CS",
+      "Obs:":"Novo chamado para CS"
+    },
+    {
+      "Demanda": "Cargas em massa",
+      "Exemplo": "Carga de contratos, alteração de borgs, etc",
+      "SLA": "5",
+      "Escopo": "Sim",
+      "Triagem": "N1",
+      "Análise":"N2",
+      "Validação":"N2",
+      "Execução":"N2",
+      "Obs:":"Novo chamado para CS"
+    },
+    {
+      "Demanda": "Cancelamento",
+      "Exemplo": "Cancelamento de processos",
+      "SLA": "N/A",
+      "Escopo": "Não",
+      "Triagem": "N1",
+      "Análise":"",
+      "Validação":"",
+      "Execução":"",
+      "Obs:":"Separar clientes para escalação"
+    },
+    {
+      "Demanda": "Saneamento de bases",
+      "Exemplo": "Regras, fornecedores, produtos (comparativo com base do ERP do cliente)",
+      "SLA": "N/A",
+      "Escopo": "Não",
+      "Triagem": "N1",
+      "Análise":"",
+      "Validação":"",
+      "Execução":"",
+      "Obs:":"Indicar alternativas de relatório/carga"
+    },
+    {
+      "Demanda": "Serviços",
+      "Exemplo": "Alteração de permissões, fluxos de aprovação, etc",
+      "SLA": "5",
+      "Escopo": "Sim",
+      "Triagem": "N1",
+      "Análise":"N2",
+      "Validação":"N2",
+      "Execução":"N2",
+      "Obs:":""
+    },
+    {
+      "Demanda": "Customizações",
+      "Exemplo": "Inclusão de novos módulos no worflow do cliente",
+      "SLA": "5",
+      "Escopo": "Sim",
+      "Triagem": "N1",
+      "Análise":"N2",
+      "Validação":"N3",
+      "Execução":"CS",
+      "Obs:":""
     }
   ]
 }
