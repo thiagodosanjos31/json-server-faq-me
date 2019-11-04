@@ -24,5 +24,19 @@
       "bs": "harness real-time e-markets"
     }
   }
-]
+],
+"extraEscopo":
+  [
+    {
+      "Demanda": "Manuais",
+      "Exemplo": "Criação de manual para comprador e requisitante",
+      "SLA": "N/A",
+      "Escopo": "Não",
+      "Triagem": "N1",
+      "Análise":"",
+      "Validação":"",
+      "Execução":"",
+      "Obs:":""
+    }
+  ]
 }
