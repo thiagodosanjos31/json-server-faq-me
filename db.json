@@ -99,6 +99,30 @@
       "Solução de contorno": "Sem solução de contorno",
       "Tempo de resposta": "Até 05 horas úteis",
       "Tempo de solução": "Até 24 horas"
+    },
+    {
+      "Severidade": "Alto",
+      "Impacto": "Maioria dos usuários afetados",
+      "Sistema": "Funcional",
+      "Solução de contorno": "Solução existente e identificada",
+      "Tempo de resposta": "Até 10 horas úteis",
+      "Tempo de solução": "Até 04 (quatro) dias úteis"
+    },
+    {
+      "Severidade": "Médio",
+      "Impacto": "Degradação de serviço para minoria dos usuários",
+      "Sistema": "Funcional",
+      "Solução de contorno": "Solução existente e identificada",
+      "Tempo de resposta": "Até 10 horas úteis",
+      "Tempo de solução": "Até 01 (uma) semana"
+    },
+    {
+      "Severidade": "Baixo",
+      "Impacto": "Problema afeta apenas um usuário ou funcionalidade",
+      "Sistema": "Funcional",
+      "Solução de contorno": "Solução existente e identificada",
+      "Tempo de resposta": "Até 10 horas úteis",
+      "Tempo de solução": "Até 02 (duas) semanas"
     }
   ]
 }
